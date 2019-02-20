@@ -9,5 +9,7 @@
 
 **awesome-semantic-segmentation** https://github.com/mrgloom/awesome-semantic-segmentation
 
+**awesome-human-pose-estimation** https://github.com/cbsudux/awesome-human-pose-estimation
+
 
 
