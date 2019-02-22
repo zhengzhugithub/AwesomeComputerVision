@@ -11,5 +11,7 @@
 
 **awesome-human-pose-estimation** https://github.com/cbsudux/awesome-human-pose-estimation
 
+**awesome-Face-Recognition** https://github.com/ChanChiChoi/awesome-Face_Recognition
+
 
 
